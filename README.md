@@ -1,11 +1,15 @@
-## Changed:
+## WARNING:
 
-- set environment in platform io to F429
+! This is my adaptation of the marlin 2.x for SKR 2.0
+! use this as your own risk !
 
-
-
-
-
+### Main params:
+- printing configuration: 210x210x240mm
+- pla 210@60 / abs 250@80
+- mecaniccal switch based on anet a8
+- Main board: SKR 2.0 rev B (f429) with 2208 in UART MODE
+- Motors nema 17s: 1X/Y and 2xZ
+- based on a custom AM8
 
 ## Original content
 
